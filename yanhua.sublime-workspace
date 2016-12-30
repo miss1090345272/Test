@@ -1,0 +1,352 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sc",
+				"script"
+			],
+			[
+				"n",
+				"no-repeat〔value〕"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"pa",
+				"padding-left: 〔property〕"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"ke",
+				"keyCode"
+			],
+			[
+				"cl",
+				"clientHeight"
+			],
+			[
+				"clie",
+				"clientWidth"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/实习/boot/1.html",
+		"/F/实习/boot/login.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/zhuye/index.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/jq/1.html",
+		"/F/实习/boot/bootstrap-3.3.5-dist/js/jquery.js",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/zhipiao/css/index.css",
+		"/F/实习/boot/bootstrap.html",
+		"/F/实习/boot/bootstrap-3.3.5-dist/1.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/zhipiao/index.html",
+		"/D/WWW/wd/default/Public/static/audit0/Home/View/Public/zhipiao/css/index.css",
+		"/D/WWW/wd/default/Application/TPL/Home/Index/achievement.html",
+		"/F/实习/njs.day/day1.demo/微博播放器收缩.html",
+		"/F/实习/js.day/day11/2.html",
+		"/F/实习/js.课堂/1606_18/01正则的练习.html",
+		"/F/实习/js.课堂/1606_18/04筛选.html",
+		"/F/实习/js.课堂/1606_18/03去除脏哈.html",
+		"/F/实习/js.课堂/1606_18/02效果.html",
+		"/F/实习/js.day/day13/5.html",
+		"/F/实习/js.day/day15天/denglu.html",
+		"/F/实习/js.day/day14/2.html",
+		"/F/实习/js.day/day14/3.html",
+		"/F/实习/js.day/day14/1.html",
+		"/D/Downloads/201610121612/index.html",
+		"/H/实习/h5day/day1/自定义错误信息.html",
+		"/F/实习/h5day/day7/字.html",
+		"/F/实习/h5day/day7/作业1.html",
+		"/D/WWW/wd/default/Public/static/audit0/Home/View/Public/css/css.css",
+		"/F/实习/h5day/day4/qqrotate.html",
+		"/F/实习/h5work/day12/index.html",
+		"/F/实习/h5day/day12/shenru.html",
+		"/F/实习/h5day/day12/tanchuang.html",
+		"/F/实习/h5day/day12/tanchuang",
+		"/F/实习/h5day/day12/shuju.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/xiangqingye/detail.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/wd/default/Public/static/audit0/Admin/View/Public/css/css.css",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/wd/default/Application/TPL/Admin/Member/add.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/wd/default/Public/static/audit0/Home/View/Public/css/css.css",
+		"/D/wamp/www/wd/default/Application/TPL/Home/Index/announcement.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/login.html",
+		"/D/wamp/www/wd/default/Public/static/audit0/Home/View/Public/css/css-back.css",
+		"/D/wamp/www/wd/default/Application/TPL/Home/Index/top.html",
+		"/D/wamp/www/wd/default/Application/TPL/Home/Index/search.html",
+		"/D/wamp/www/wd/default/Application/TPL/Home/Selfstudy/index.html",
+		"/D/wamp/www/wd/default/Public/static/audit0/Home/View/Public/css/css.css",
+		"/D/wamp/www/wd/default/Application/Admin/View/Public/css/css.css",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/wd/default/Application/TPL/Home/Index/announcement.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/wd/default/Application/Admin/View/Public/css/css.css",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/wd/default/Application/TPL/Home/Index/foot.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/xiangmu/Application/Home/View/Index/announcement.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/xiangmu/Application/Home/View/Public/css/css.css",
+		"/E/www/audit/Application/Home/View/Public/css/ux/iconfont.css",
+		"/F/实习/h5day/day13/pagination.html",
+		"/F/实习/h5day/day12/swiper.html",
+		"/D/Downloads/iconfont/demo.css",
+		"/F/实习/css作业/雪奥/css/index.css",
+		"/F/实习/css作业/机试4麦田/css/index.css",
+		"/F/www/audit/Application/Home/View/Public/css/css.css",
+		"/F/www/audit/Application/Home/View/Selfstudy/index.html",
+		"/F/www/audit/Application/Home/View/Public/js/js.js",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/zhipiao/index",
+		"/F/www/audit/Application/Home/View/Training/index.html",
+		"/F/实习/njs.课堂/day5/经典轮播图/index-OOP.html",
+		"/F/实习/h5day/day12/pagination.html",
+		"/F/实习/njs.课堂/day5/经典轮播图/index.html",
+		"/F/实习/njs.课堂/day5/经典轮播图/js/plugs.js",
+		"/D/Downloads/26841380188312546/js/tabbedContent.js",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/jquery-zyhd-xxkqh(jb51.net)/index.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/jquery-zyhd-xxkqh(jb51.net)/js/jquery.SuperSlide.js",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/jquery-zyhd-xxkqh(jb51.net)/js/jquery-1.7.2.min.js",
+		"/F/www/audit/Application/Home/View/Index/top.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/AppData/Local/Temp/scp42661/var/www/html/audit/Application/Home/View/Public/css/css.css",
+		"/C/Users/Administrator.PC-20150807ZJWI/AppData/Local/Temp/scp35084/var/www/html/audit0/Application/Home/View/Public/css/css.css",
+		"/C/Users/Administrator.PC-20150807ZJWI/AppData/Local/Temp/scp11440/var/www/html/audit0/Application/Home/View/Index/top.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/AppData/Local/Temp/scp40968/var/www/html/audit0/Application/Home/View/Selfstudy/index.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/AppData/Local/Temp/scp22181/var/www/html/audit0/Application/Home/View/Selfstudy/index.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/AppData/Local/Temp/scp20411/var/www/html/audit0/Application/Home/View/Selfstudy/index.html",
+		"/E/h5day/angularJs/18.2_routing.html",
+		"/E/h5day/angularJs/27.1_uiRouter.html",
+		"/H/实习/angular1604/23.0_uiRoute.html",
+		"/H/实习/angular1604/05.6_ng-include.html",
+		"/H/实习/angular1604/07.1_filter.html",
+		"/H/实习/angular1604/11.1_sever.html",
+		"/H/实习/angular1604/11.2_service.html",
+		"/H/实习/angular1604/12.1_http.html",
+		"/H/实习/angular1604/05.3_ng-options.html",
+		"/H/实习/angular1604/05.4_directive.html",
+		"/H/实习/angular1604/05.1_ng-repeat.html",
+		"/D/wamp/www/wh1604/培训/day8/flex_1.html",
+		"/H/实习/h5day/day7/canvas.html",
+		"/H/实习/boot/bootstrap.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/svn/1/html/14.1_zx.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/svn/1/html/13.2_anchorscrollData.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/svn/1/html/13.1_anchorscroll.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/svn/1/html/12.1_http.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/svn/1/app/css/shoplist.css",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/svn/1/app/html/shopList.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/svn/1/app/js/shoplist.js",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/svn/1/app/css/shoplist1.css",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/svn/1/app/html/shopList1.html",
+		"/D/wamp/www/wh1604/培训/day7/canvas/canvas_xpc/时钟.html",
+		"/D/wamp/www/wh1604/培训/day7/guaguale/刮刮乐.html",
+		"/D/wamp/www/wh1604/培训/day10/html/aclick.html",
+		"/D/wamp/www/wh1604/培训/day10/html/easing.html",
+		"/D/wamp/www/wh1604/培训/day7/canvas/canvas_xpc/biaoge.html",
+		"/D/wamp/www/wh1604/培训/day7/canvas/canvas_xpc/b3.html",
+		"/D/wamp/www/wh1604/培训/day7/复制 drawImage.html",
+		"/D/wamp/www/wh1604/培训/day7/太极图.html",
+		"/D/wamp/www/wh1604/培训/day7/径向渐变.html",
+		"/D/wamp/www/wh1604/培训/day7/新旧图形组合.html",
+		"/D/wamp/www/wh1604/培训/day7/渐变.html",
+		"/D/wamp/www/wh1604/培训/day6/v.html",
+		"/D/wamp/www/wh1604/培训/day5/day5/cache.html",
+		"/D/wamp/www/wh1604/培训/day5/day5/cache.css",
+		"/D/wamp/www/wh1604/培训/day5/day5/network.css",
+		"/D/wamp/www/wh1604/培训/day5/day5/fallback.css",
+		"/D/wamp/www/wh1604/培训/day5/day5/test.manifest",
+		"/D/wamp/www/wh1604/培训/day5/本地存储.pptx",
+		"/D/wamp/www/wh1604/培训/day5/day5/sessionStorage.html",
+		"/D/wamp/www/wh1604/培训/day5/day5/localStorage.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/培训/day4/animation-fill-mode.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/培训/day4/animation.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/培训/day4/timing-function.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/培训/day4/delay.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/培训/day4/loading.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/培训/day4/scaleZ.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/培训/day4/preserve.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/培训/day4/rotate3D.html",
+		"/C/Users/Administrator.PC-20150807ZJWI/Desktop/培训/day4/3d变形/旋转木马.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"C:\\Users\\Administrator.PC-20150807ZJWI\\Desktop\\wd"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"width",
+			"oP",
+			"oSpan",
+			".zhuce_item li label",
+			".col-1-5",
+			"part",
+			"seach_title",
+			"search_list",
+			"css.css",
+			"#000",
+			"dLeft",
+			"zizhu_main",
+			"zizhu_left ",
+			"zizhu_left",
+			"aside_right",
+			"aside_right push_right xuexi_timu_right",
+			"nav-0",
+			"tab_item",
+			"aside_list",
+			"25px",
+			"25",
+			"aside_list_3 hide",
+			"seach_area placeholder"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "yanhua.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 310.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
